@@ -3,7 +3,7 @@
   "short_name": "Victor Cortez",
   "lang": "en-US",
     "manifest_version": 2,
-  "start_url": "/",
+  "start_url": "/resume",
   "display": "standalone",
     "theme_color": "#E6E6FA",
     "background_color": "#E6E6FA",
